@@ -82,7 +82,3 @@ class TestRegister():
         time.sleep(4)
         assert self.driver.title == 'ToolsQA'
 
-
-# driver.refresh()
-# time.sleep(3)
-# driver.quit()
